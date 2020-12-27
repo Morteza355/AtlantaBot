@@ -52,7 +52,7 @@ module.exports = {
 			type: "LISTENING"
 		},
 		{
-			name: "-help",
+			name: "$help",
 			type: "PLAYING"
 		}
 	],
